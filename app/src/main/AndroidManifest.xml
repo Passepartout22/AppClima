@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppClima">
         <activity
+            android:name=".Ciudad"
+            android:exported="false"
+            android:label="@string/title_activity_ciudad"
+            android:theme="@style/Theme.AppClima.NoActionBar" />
+        <activity
             android:name=".Ciudades"
             android:exported="false"
             android:label="@string/title_activity_ciudades"

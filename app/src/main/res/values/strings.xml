@@ -13,4 +13,8 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_ciudad">Ciudad</string>
+
+    <string name="texto_bienvenida">Bienvenido usuario, Selecciona en la opción de abajo la ciudad requerida para ver el clima</string>
+    <string name="text_boton_mexico">Clima de la ciudad de México</string>
 </resources>
