@@ -17,4 +17,6 @@
 
     <string name="texto_bienvenida">Bienvenido usuario, Selecciona en la opción de abajo la ciudad requerida para ver el clima</string>
     <string name="text_boton_mexico">Clima de la ciudad de México</string>
+    <string name="text_boton_berlin">Clima de la ciudad de Berlin</string>
+    <string name="text_boton_fcp">Clima de la ciudad de Felipe Carrillo Puerto</string>
 </resources>
