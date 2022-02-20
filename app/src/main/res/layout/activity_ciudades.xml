@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:minWidth="40dp"
-        android:minHeight="120dp"
+        android:minHeight="80dp"
         app:srcCompat="@android:drawable/ic_dialog_map" />
 
     <TextView
@@ -25,26 +25,30 @@
         android:padding="10dp"
         android:text="@string/texto_bienvenida"
         android:textColor="@color/color_texto"
-        android:textSize="24sp" />
+        android:textSize="18dp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/bFcp"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_boton_fcp" />
+        android:capitalize="sentences"
+        android:text="@string/text_boton_fcp"
+        android:textSize="15dp" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/bMexico"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_boton_mexico" />
+        android:text="@string/text_boton_mexico"
+        android:textSize="15dp" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/bBerlin"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_boton_berlin" />
+        android:text="@string/text_boton_berlin"
+        android:textSize="15dp" />
 </LinearLayout>

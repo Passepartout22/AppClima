@@ -25,7 +25,7 @@
         android:layout_centerInParent="true"
         android:text="@string/texto_ciudad"
         android:textColor="@color/color_texto"
-        android:textSize="30sp" />
+        android:textSize="26sp" />
 
     <TextView
         android:id="@+id/tvEstado"
