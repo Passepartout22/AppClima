@@ -51,4 +51,37 @@
         android:layout_height="wrap_content"
         android:text="@string/text_boton_berlin"
         android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/bChetumal"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CLIMA DE LA CIUDAD CHETUMAL"
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/bTulum"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CLIMA DE LA CIUDAD TULUM"
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/bMorelos"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CLIMA DE LA CIUDAD  MORELOS"
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/bShanghai"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CLIMA DE LA CIUDAD CHETUMAL"
+        android:textSize="15dp" />
+
 </LinearLayout>
